@@ -19,7 +19,7 @@ Es una consola GameBoy hecha con conocimientos de HTML y CSS, no posee ninguna f
 
 ## Deploy 🚀
 
-<a hrerf="https://kymm14.github.io/gameboy-consola/">URL a producción</a>
+<a href="https://kymm14.github.io/gameboy-consola/">URL a producción</a>
 
 ## Vistas
 
